@@ -1,6 +1,7 @@
-# Big_Mart_Sales_Prediction-
+# Big Mart Sales Prediction 
 ![](big.jpg)
 
+### For code explanation, please follow the comments inline in [Code](https://github.com/VijithaSirra/Big_Mart_Sales_Prediction-/blob/master/BigMart_Sales_Prediction.ipynb)
 In BigMart Sales we have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim of this data science project is to build a predictive model and find out the sales of each product at a particular store.
 
 This is a Regression Problem. We applied linear regression and Decision tree regressor algorithms and got RMSE vaalues.
